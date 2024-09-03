@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "119039990708",
+    "firebase_url": "https://learning-e2f67-default-rtdb.firebaseio.com",
+    "project_id": "learning-e2f67",
+    "storage_bucket": "learning-e2f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119039990708:android:398949329f24adfd7ab0e1",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChSOHfvFeRHB7oMBrxz8zktAn1jm4T_xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
